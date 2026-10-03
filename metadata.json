@@ -1,0 +1,6 @@
+{
+  "name": "鉴源・GenSight",
+  "description": "鉴源・GenSight — 一鉴，见企业全貌。探查商业本源，深耕反常点洞察、利益链路闭环、灰度证据评估与产业链全景。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
